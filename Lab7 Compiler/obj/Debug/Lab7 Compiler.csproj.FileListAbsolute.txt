@@ -1,0 +1,13 @@
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\bin\Debug\Lab7 Compiler.exe.config
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\bin\Debug\Lab7 Compiler.exe
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\bin\Debug\Lab7 Compiler.pdb
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\obj\Debug\Lab7 Compiler.csprojAssemblyReference.cache
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\obj\Debug\Lab7_Compiler.Properties.Resources.resources
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\obj\Debug\Lab7 Compiler.csproj.GenerateResource.cache
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\obj\Debug\Lab7 Compiler.exe
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\obj\Debug\Lab7 Compiler.pdb
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\obj\Debug\Lab7_Compiler.Compiler.resources
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\bin\Debug\Lab7 Compiler.exe.manifest
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\bin\Debug\Lab7 Compiler.application
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\obj\Debug\Lab7 Compiler.exe.manifest
+C:\Users\sanya\Desktop\Учеба\3 курс\Операционные Системы\Lab7 Compiler\Lab7 Compiler\obj\Debug\Lab7 Compiler.application
